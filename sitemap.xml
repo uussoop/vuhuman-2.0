@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/posts/dumb-ai/</loc>
+    <loc>/posts/dumb-ai/</loc>
     <lastmod>2024-01-14T07:07:07+01:00</lastmod>
   </url>
   <url>
-    <loc>//localhost:1313/posts/dumb-amp-strike/</loc>
+    <loc>/posts/dumb-amp-strike/</loc>
     <lastmod>2024-01-14T07:07:07+01:00</lastmod>
   </url>
   <url>
-    <loc>//localhost:1313/posts/perfect-amp/</loc>
+    <loc>/posts/perfect-amp/</loc>
     <lastmod>2024-01-14T07:07:07+01:00</lastmod>
   </url>
   <url>
-    <loc>//localhost:1313/posts/perfect-ase-location/</loc>
+    <loc>/posts/perfect-ase-location/</loc>
     <lastmod>2024-01-14T07:07:07+01:00</lastmod>
   </url>
   <url>
-    <loc>//localhost:1313/posts/perfet-ase-strike/</loc>
+    <loc>/posts/perfet-ase-strike/</loc>
     <lastmod>2024-01-14T07:07:07+01:00</lastmod>
   </url>
   <url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2024-01-14T07:07:07+01:00</lastmod>
   </url>
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2024-01-14T07:07:07+01:00</lastmod>
   </url>
 </urlset>
